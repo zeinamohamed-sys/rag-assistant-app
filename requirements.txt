@@ -1,0 +1,15 @@
+# Root requirements: everything needed to run notebooks/rag_pipeline.ipynb
+# and the scripts/ pipeline end-to-end. For running ONLY the backend or
+# ONLY the frontend, see backend/requirements.txt and
+# frontend/requirements.txt instead (smaller, service-specific installs).
+
+-r backend/requirements.txt
+-r frontend/requirements.txt
+
+jupyter>=1.0,<2.0
+notebook>=7.0,<8.0
+nbformat>=5.9,<6.0
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+reportlab>=4.0,<5.0
+requests>=2.31,<3.0

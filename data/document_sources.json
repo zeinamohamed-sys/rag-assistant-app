@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pandas Cheat Sheet (official pandas-dev reference)",
+    "url": "https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf",
+    "filename": "pandas_cheat_sheet.pdf",
+    "notes": "Official quick-reference PDF maintained in the pandas-dev/pandas GitHub repository."
+  },
+  {
+    "title": "NumPy v2.0 User Guide (official)",
+    "url": "https://numpy.org/doc/2.0/numpy-user.pdf",
+    "filename": "numpy_user_guide.pdf",
+    "notes": "Official NumPy User Guide PDF published by the NumPy project."
+  },
+  {
+    "title": "Matplotlib 2.0.2 Documentation (official, archived release)",
+    "url": "https://matplotlib.org/2.0.2/Matplotlib.pdf",
+    "filename": "matplotlib_reference.pdf",
+    "notes": "Official Matplotlib documentation PDF. Matplotlib's current docs no longer ship a combined PDF, so this is the most recent officially-hosted PDF release available."
+  }
+]
